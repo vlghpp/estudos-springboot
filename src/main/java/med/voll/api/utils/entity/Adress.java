@@ -31,4 +31,7 @@ public class Adress {
         this.complement = data.complement();     // complemento
     }
 
+    public void updateRegister(Adress adress) {
+
+    }
 }
